@@ -14,3 +14,5 @@ for (let s = 50; s <= 100; s += 10) {
     if (ok) passed++;
 }
 console.log(`Тэнцсэн : ${passed}`);
+
+/* test */
